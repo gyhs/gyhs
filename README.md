@@ -6,7 +6,7 @@
 * [철통같은 믿음으로](https://github.com/orgs/Faith-in-Steel/dashboard)
 * [Fin de Siecle](https://github.com/orgs/Fin-de-Siecle/dashboard)
 * [SNRT](https://github.com/orgs/Schneitrassvet/dashboard)
-* [제 3차 세계대전](https://github.com/orgs/World-War-III/dashboard)
+* [제3차세계대전](https://github.com/orgs/World-War-III/dashboard)
 
 ## 여러분은 저를 이곳에서 찾을수 있습니다:
  
