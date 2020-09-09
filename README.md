@@ -1,10 +1,12 @@
-# Hi there, I'm NIKA
+# 안녕하세요! 저는 NIKA입니다!
 
-I'm a Computer Science, Data Science and video game modding enthusiast and a tinkerer at heart. I am currently a BSc student at AGH UST in Kraków. Feel free to take a look around my various repositories and projects :)
+저는 Hearts of Iron 4의 모드를 개발하는 모더, NIKA입니다. 저의 소속 팀은 다음과 같습니다:
 
-Aside from my own projects, I have contributed or took a leading role in several open source projects. The most notable include:
-
-* [PyCaret, an open source, low-code machine learning library in Python](https://github.com/pycaret/pycaret)
+* [Cold War Crisis](https://github.com/orgs/Cold-War-Crisis/dashboard)
+* [철통같은 믿음으로](https://github.com/orgs/Faith-in-Steel/dashboard)
+* [Fin de Siecle](https://github.com/orgs/Fin-de-Siecle/dashboard)
+* [SNRT](https://github.com/orgs/Schneitrassvet/dashboard)
+* [제 3차 세계대전](https://github.com/orgs/World-War-III/dashboard)
 
 ## 여러분은 저를 이곳에서 찾을수 있습니다:
  
