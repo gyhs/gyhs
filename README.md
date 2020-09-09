@@ -12,7 +12,7 @@
  
 * [Discord - 모딩코어](https://discord.gg/dy9Ezcs)
 
-* NIKA#7227
+* NIKA#7227- 디스코드 태그
 
 * [스팀 프로필](https://steamcommunity.com/id/qwqwqw82115/)
 
