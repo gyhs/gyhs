@@ -15,4 +15,4 @@ Aside from my own projects, I have contributed or took a leading role in several
 * LinkedIn: https://www.linkedin.com/in/yard1/
 * Steam Workshop: https://steamcommunity.com/profiles/76561198045710503/myworkshopfiles/
 
-[![Antoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyhs)](https://github.com/anuraghazra/github-readme-stats)
+[![NIKA's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyhs)](https://github.com/anuraghazra/github-readme-stats)
