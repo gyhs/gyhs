@@ -10,6 +10,10 @@
 
 ## 여러분은 저를 이곳에서 찾을수 있습니다:
  
-* [Discord](https://discord.gg/dy9Ezcs)
+* [Discord - 모딩코어](https://discord.gg/dy9Ezcs)
+
+* NIKA#7227
+
+* [스팀 프로필](https://steamcommunity.com/id/qwqwqw82115/)
 
 [![NIKA's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyhs)](https://github.com/anuraghazra/github-readme-stats)
