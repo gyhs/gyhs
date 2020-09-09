@@ -1,6 +1,6 @@
 # 안녕하세요! 저는 NIKA입니다!
 
-## 저는 Hearts of Iron 4의 모드를 개발하는 모더, NIKA입니다. 저의 소속 팀은 다음과 같습니다:
+## 저는 Hearts of Iron 4를 개발하는 모더, NIKA입니다. 저의 소속 팀은 다음과 같습니다:
 
 * [Cold War Crisis](https://github.com/orgs/Cold-War-Crisis/dashboard)
 * [철통같은 믿음으로](https://github.com/orgs/Faith-in-Steel/dashboard)
