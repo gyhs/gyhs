@@ -16,6 +16,6 @@
 
 * [스팀 프로필](https://steamcommunity.com/id/qwqwqw82115/)
 
-[![NIKA's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyhs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![NIKA's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyhs&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![NIKA's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gyhs&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
