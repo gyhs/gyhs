@@ -1,9 +1,6 @@
 # 안녕하세요! 저는 NIKA입니다!
 
-## 저는 Hearts of Iron 4를 개발하는 모더, NIKA입니다. 저의 소속 팀은 다음과 같습니다:
-
-* [Cold War Crisis](https://github.com/orgs/Cold-War-Crisis/dashboard)
-* [Fin de Siecle](https://github.com/orgs/Fin-de-Siecle/dashboard)
+## 저는 Hearts of Iron 4를 개발하는 모더, NIKA입니다.
 
 ## 여러분은 저를 이곳에서 찾을수 있습니다:
 
